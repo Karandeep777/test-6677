@@ -1,0 +1,7 @@
+{
+  "transcript_text": "string",
+  "summary_length": "string",
+  "follow_up_query": "string",
+  "user_email": "string",
+  "user_consent": "bool"
+}
